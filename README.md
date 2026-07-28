@@ -12,6 +12,11 @@
 
 The analysis examines attrition patterns across key workforce dimensions, including age groups, education levels, job levels, and job roles, and departments to identify the employee segments with the highest turnover, make recommendations, and gain deeper understanding into employee attrition within the organization to assess workforce stability and identify opportunities for improving employee retention
 
+<img width="587" height="332" alt="HR Dashboard" src="https://github.com/user-attachments/assets/772e7dc2-6adf-4c87-9c56-f1e03e9111ed" />
+
+
+
+
 ## Data Sources
 
 HR data: The primary dataset used for this analysis is the "HR Dataset.xlsx"file, containing detailed information about each employee of the organisation.
